@@ -19,3 +19,6 @@ And now it might work appropriately
 
 ## TODO
 nvidia-smi still can't work properly with prompt `"NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running"`
+
+ref1 ['https://blog.csdn.net/kilotwo/article/details/79258107']
+ref2 ['https://www.jianshu.com/p/6482dca83bd4'] 
